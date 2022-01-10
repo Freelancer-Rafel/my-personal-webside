@@ -3,8 +3,12 @@ body{
     padding: 0;
     font-family: Tahoma;
     box-sizing: border-box;
+    scroll-behavior: smooth;
 }
 /* MANU DESIGN START*/
+nav {
+    position: fixed;
+}
 li {
     list-style-type: none;
     display: inline-block;
