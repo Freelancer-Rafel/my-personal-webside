@@ -8,6 +8,7 @@ body{
 /* MANU DESIGN START*/
 nav {
     position: fixed;
+    margin-top: -10px;
 }
 li {
     list-style-type: none;
